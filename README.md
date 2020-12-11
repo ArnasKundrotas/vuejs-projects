@@ -1,2 +1,2 @@
-# Vue Js Projects dump
+# Vue Js Projects
 Vue Js Projects dump
