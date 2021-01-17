@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+#app {
+    margin: 3rem auto;
+    max-width: 40rem;
+    padding: 1rem;
+    box-shadow: 0 2px 8px black;
+}
+
+label, input {
+    margin-bottom: .5rem;
+    display: block;
+    width: 100%;
+}
+
+label {
+    font-weight: bold;
+}
+
+li {
+    list-style: none;
+    align-items: center;
+    border: solid 1px grey;
+    margin: 10px;
+    padding: 10px;
+}
