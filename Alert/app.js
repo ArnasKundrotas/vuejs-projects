@@ -15,6 +15,10 @@ const app = Vue.createApp ({
         setText(e) {
             this.output = e.target.value;
         },
+        
+        setText1(e) {
+            this.output1;
+        },
 
         setTextEnter(e){
             this.output1 = e.target.value
